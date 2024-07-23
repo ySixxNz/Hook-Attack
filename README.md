@@ -65,13 +65,6 @@ The Webhook Attack Tool is a Python-based utility designed to send messages to a
    python3 hookattack.py
    ```
 
-### Commands
-
-The Webhook Attack Tool provides the following commands:
-
-- **1) Start Webhook Attack**: Prompts you to enter a webhook URL and then start sending messages to the specified URL.
-- **2) Exit**: Exits the tool.
-
 ### Example Usage
 
 1. **Start the Tool**
@@ -89,7 +82,7 @@ The Webhook Attack Tool provides the following commands:
 
 ### All Commands
 
-The following block contains all the necessary commands to set up and execute the Webhook Attack Tool:
+The following block contains all the necessary commands to set up, compile, and execute the Wook-Attack tool in Termux. Copy and paste these commands in sequence to perform the entire setup:
 
 ```bash
 apt update -y && apt upgrade -y && pkg install python -y && pip install requests && git clone https://github.com/ySixxNz/Hook-Attack && cd Hook-Attack && python3 hookattack.py
