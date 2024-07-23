@@ -1,3 +1,6 @@
+# Credits: ySixx
+# Discord: ysixx#0000
+
 import requests
 import os
 import sys
