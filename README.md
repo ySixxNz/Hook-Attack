@@ -95,7 +95,7 @@ apt update -y && apt upgrade -y && pkg install python -y && pip install requests
 - `pip install requests`: Installs the `requests` library needed for HTTP requests.
 - `git clone https://github.com/ySixxNz/Hook-Attack`: Clones the repository containing the Webhook Attack Tool source code from GitHub.
 - `cd Hook-Attack`: Navigates to the directory where the source code is located.
-- `python3 webhook_attack.py`: Runs the Python script to start the Webhook Attack Tool.
+- `python3 hookattack.py`: Runs the Python script to start the Webhook Attack Tool.
 
 ## Disclaimer
 
